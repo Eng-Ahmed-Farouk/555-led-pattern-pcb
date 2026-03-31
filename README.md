@@ -1,5 +1,5 @@
 # 555-led-pattern-pcb
-![](pcb-3d-view-screenshot)
+![](pcb-3d-view-screenshot.png)
 
 ### It is a PCB That makes a pattern using 10 blue leds, a 555 module and a 4017 module
 
