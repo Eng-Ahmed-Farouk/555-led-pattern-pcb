@@ -6,4 +6,4 @@
 ### 5- 1x 3.9k ohm resistor
 ### 6- 1x 10uf polarized capacitor
 ### 7- 1x 0.01uf non-polarized capacitor
-### 8- 1x 5v battery
+### 8- 1x battery
