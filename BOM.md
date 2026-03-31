@@ -7,3 +7,4 @@
 ### 6- 1x 10uf polarized capacitor
 ### 7- 1x 0.01uf non-polarized capacitor
 ### 8- 1x battery
+### 9- 1x PCB board
